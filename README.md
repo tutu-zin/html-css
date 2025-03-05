@@ -1,2 +1,2 @@
-# aprendendo-html-e-css
+# html-css
 Repositório utilizado para aprender HTML e CSS
